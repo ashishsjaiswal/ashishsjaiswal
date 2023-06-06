@@ -14,22 +14,22 @@
 <a href="">
   <img align="left" alt="Harshraj's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/rajharshbedi">
+<a href="">
   <img align="left" alt="Harshraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/harshraj-singh-bedi-162841181/">
+<a href="">
   <img align="left" alt="Harshraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/harshbedi.in">
+<a href="">
   <img align="left" alt="Harshraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/wiredshark">
+<a href="">
   <img align="left" alt="Harshraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://music.apple.com/in/profile/rajharshbedi">
+<a href="">
   <img align="left" alt="Apple Music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/itunes.svg" />
 </a>
-<a href="https://t.me/wiredsharks">
+<a href="">
   <img align="left" alt="Harshraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/telegram.svg" />
 </a></br></br>
 
