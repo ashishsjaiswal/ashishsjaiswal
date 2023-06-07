@@ -2,7 +2,7 @@
 
 <!--- <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="290"> --->
 
-[![Website](https://shields.io/badge/jaiswalashish.com-visit%20now-49c053?style=for-the-badge&url=https%3A%2F%2Fjaiswalashish.in)](https://harshbedi.com)    
+[![Website](https://shields.io/badge/jaiswalashish.com-visit%20now-49c053?style=for-the-badge&url=https%3A%2F%2Fjaiswalashish.in)](https://jaiswalashish.com)    
 
 ## I'm a network security engineer!
 
