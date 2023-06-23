@@ -48,6 +48,6 @@
 <br />
 
 
-![AshishJaiswal's github stats](https://github-readme-stats.vercel.app/api?username=ashishsjaiswal)
+![TheNetworkDude's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishsjaiswal)
 
 ---
