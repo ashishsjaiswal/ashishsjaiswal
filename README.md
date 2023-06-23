@@ -48,6 +48,6 @@
 <br />
 
 
-[![Harshraj's github stats](https://github-readme-stats.vercel.app/api?username=ashishsjaiswal)](https://github.com/anuraghazra/github-readme-stats)
+![AshishJaiswal's github stats](https://github-readme-stats.vercel.app/api?username=ashishsjaiswal)
 
 ---
